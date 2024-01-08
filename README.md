@@ -1,6 +1,6 @@
 # Repository for AL4DL class
 
-Author: [ginamKim]
+Author: Ginam Kim
 
 Folders
 - week[1-16]: Exercise notebooks for corresponding weeks
